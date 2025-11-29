@@ -1,0 +1,1 @@
+PHP dùng dấu chấm (.) để nối chuỗi, khác với dấu cộng (+) trong JavaScript. Giả sử bạn có hai biến $a = 5; và $b = "10";. Kết quả của echo $a + $b; và echo $a . $b; trong PHP là gì?

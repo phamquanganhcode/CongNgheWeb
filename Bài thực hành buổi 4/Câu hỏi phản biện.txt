@@ -1,0 +1,1 @@
+Tại sao việc xây dựng câu lệnh SQL bằng cách cộng chuỗi trực tiếp, ví dụ như INSERT INTO sinhvien (ten) VALUES ('$ten'), lại vô cùng nguy hiểm, và tại sao cách bạn đã sử dụng trong code, tức là dùng prepare() và execute([$ten]) (Prepared Statement), lại an toàn hơn?

@@ -1,0 +1,1 @@
+Điều gì đã xảy ra với bước DNS trong lần truy cập thứ hai, hệ thống nào đóng vai trò quan trọng trong việc tăng tốc độ này?
